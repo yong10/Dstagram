@@ -1,0 +1,6 @@
+#commentArea {
+    border: black;
+    height: 150px;
+    overflow-y: scroll;
+}
+
